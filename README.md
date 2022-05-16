@@ -1,23 +1,14 @@
 # Plugings
 
 Live Server
-  
 Prettier
-
 HTML CSS Support  (Hungarian Language Pack for VS Code)
-
 Start git-bash
-
 git History
-
 jsHint
-
 markDown PDF
-
 Babel ES6/Es7
-
 Docker
-
 Thunder Client
 
 -----------------------------------
