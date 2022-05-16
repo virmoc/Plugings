@@ -25,6 +25,9 @@ php artisan key:generate
 php artisan serve
 
 
+-----------------------------------
+
+
 php artisan make:controller BejegyzesFelvitelController
 
 php artisan model make:Bejegyzes -m -> létrehozza a táblát de csak ha van -m
