@@ -11,6 +11,7 @@
 •	Docker,
 •	Thunder Client
 
+-----------------------------------
 
 *git bash-ba minden előtt, biztos ami biztos*
 
